@@ -6,7 +6,16 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
-
+<style>
+*{
+background:hotpink
+}
+table{
+color:white;
+border: 2px solid black
+margin-top:500px
+}
+</style>
 </head>
 <body>
 
