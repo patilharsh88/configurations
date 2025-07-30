@@ -11,6 +11,9 @@
 	<bean class="fullyQualified Name" name="ref variable name" >
 	
 	</bean>
+	<bean class="fullyQualified Name of class 2" name="ref variable 2 name" >
+	
+	</bean>
     
 
 </beans>
