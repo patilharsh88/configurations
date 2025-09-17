@@ -1,3 +1,23 @@
+# Navigate to your project folder
+cd ~/EclipseCustom/SpringBoot/ProjectA
+
+# Initialize a new Git repository
+git init
+
+# Add all files to staging
+git add .
+
+# Commit the files
+git commit -m "Initial commit - Spring Boot blog app"
+
+# Add remote GitHub repository
+git remote add origin https://github.com/patilharsh88/blog-app.git
+
+# Push to GitHub (assuming your branch is 'master')
+git push -u origin master
+
+//------------------------------------------------------
+
 git add .
 git commit -m "Your commit message"
 git push
